@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+folium
+streamlit-folium
+catboost
+google-genai
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf

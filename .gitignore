@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+.DS_Store
+*.csv
+*.pdf
+Field_Shift_XGB_Optimized.json

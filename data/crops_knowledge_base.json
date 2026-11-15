@@ -1,0 +1,37 @@
+{
+    "Wheat": {
+        "name_ar": "قمح",
+        "water_need": "Medium",
+        "nitrogen_fix": false,
+        "root_depth": "Medium",
+        "benefit": "Staple cash crop, good winter cover."
+    },
+    "Corn": {
+        "name_ar": "ذرة",
+        "water_need": "High",
+        "nitrogen_fix": false,
+        "root_depth": "Shallow",
+        "benefit": "High yield and market value, but depletes soil nutrients."
+    },
+    "Alfalfa": {
+        "name_ar": "برسيم حجازي",
+        "water_need": "High",
+        "nitrogen_fix": true,
+        "root_depth": "Deep",
+        "benefit": "Improves soil organic matter, fixes nitrogen, deep roots prevent erosion."
+    },
+    "Sorghum": {
+        "name_ar": "ذرة رفيعة",
+        "water_need": "Low",
+        "nitrogen_fix": false,
+        "root_depth": "Deep",
+        "benefit": "Highly drought and heat resistant, excellent for water conservation."
+    },
+    "Lentils": {
+        "name_ar": "عدس",
+        "water_need": "Low",
+        "nitrogen_fix": true,
+        "root_depth": "Shallow",
+        "benefit": "Drought tolerant, fixes soil nitrogen, good for dry seasons."
+    }
+}
